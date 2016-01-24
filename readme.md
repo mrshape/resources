@@ -10,6 +10,6 @@ default-character-set=utf8
 [mysqld]
 collation-server = utf8_unicode_ci
 init-connect='SET NAMES utf8'
-character-set-server = utf8
+character-set-server = utf8 /.
 
-All database settings You can change in database.properties file.
+All database settings You can change in database.properties file..
